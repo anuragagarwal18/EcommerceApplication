@@ -26,7 +26,7 @@ Step7 : Now run your server.js file
        Command : node server.js
           
 Step8 : Go to google crome browser and run 
-        localhost:8080
+        localhost:8080/#/viewProducts
         
  Step9 : You application is now running      
  
